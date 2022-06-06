@@ -11,6 +11,7 @@
 		059B7159284E13A20053EF34 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 059B7158284E13A20053EF34 /* ContentView.swift */; };
 		059B715B284E13A30053EF34 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 059B715A284E13A30053EF34 /* Assets.xcassets */; };
 		059B715E284E13A30053EF34 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 059B715D284E13A30053EF34 /* Preview Assets.xcassets */; };
+		059B7167284E345F0053EF34 /* Apple.swift in Sources */ = {isa = PBXBuildFile; fileRef = 059B7166284E345F0053EF34 /* Apple.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +20,7 @@
 		059B7158284E13A20053EF34 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		059B715A284E13A30053EF34 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		059B715D284E13A30053EF34 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		059B7166284E345F0053EF34 /* Apple.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Apple.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -53,6 +55,7 @@
 			children = (
 				059B7156284E13A20053EF34 /* SwiftUITableApp.swift */,
 				059B7158284E13A20053EF34 /* ContentView.swift */,
+				059B7166284E345F0053EF34 /* Apple.swift */,
 				059B715A284E13A30053EF34 /* Assets.xcassets */,
 				059B715C284E13A30053EF34 /* Preview Content */,
 			);
@@ -137,6 +140,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				059B7167284E345F0053EF34 /* Apple.swift in Sources */,
 				059B7159284E13A20053EF34 /* ContentView.swift in Sources */,
 				059B7157284E13A20053EF34 /* SwiftUITableApp.swift in Sources */,
 			);
